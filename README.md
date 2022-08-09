@@ -2,7 +2,7 @@
 
 Simple webiste to help fellow React Devs to meetup for a coffee. 
 
-https://legendary-jalebi-63f4a7.netlify.app/
+https://react-meetups-63f4a7.netlify.app/
 
 
 <b>🛠️ Technologies used</b>
