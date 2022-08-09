@@ -1,6 +1,6 @@
 <b>📝 reactMeetups.js 📝 </b>
 
-Simple webiste to help fellow React Devs to meetup for a coffee. 
+Webiste to help fellow React Devs to meetup for a coffee. 
 
 https://react-meetups-63f4a7.netlify.app/
 
@@ -12,6 +12,8 @@ https://react-meetups-63f4a7.netlify.app/
  -<a href ="https://prettier.io/">Prettier for code readability</a>  
  
 -<a href ="https://app.netlify.com/teams/nikolalazarevic95/overview/">Netlify for deploying the website</a>
+
+-<a href ="https://firebase.google.com/">Firebase for backend</a>
 
 
 <b>⚡ Installation  </b>
